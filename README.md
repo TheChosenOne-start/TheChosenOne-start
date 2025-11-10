@@ -9,7 +9,7 @@
 ║ ╚██████╗   ██║   ██║     ██║  ██║███████╗██║  ██║                            ║
 ║  ╚═════╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                            ║
 ║                                                                              ║
-║  Cybersecurity Engineer | Pentester | Secure Dev | Open-Source Advocate      ║
+║  Cybersecurity Engineer | Pentester | Secure Dev | Jailbreaker Ai            ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
