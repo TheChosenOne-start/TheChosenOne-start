@@ -10,35 +10,30 @@
 ║ ██║       ╚██╔╝  ██╔═══╝ ██╔══██║██╔══╝  ██╔══██╗                            ║
 ║ ╚██████╗   ██║   ██║     ██║  ██║███████╗██║  ██║                            ║
 ║  ╚═════╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                            ║
-║                                                                              ║
-║  Cybersecurity Engineer | Pentester | Secure Dev | Jailbreaker Ai            ║
+║  student                                                                     ║
+║  Cybersecurity Engineer | Secure Dev | Jailbreaker Ai                        ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ```bash
 $ whoami
-alex_cipher
 $ echo "Fortifying systems. Hunting bugs. Building defenses."
 Fortifying systems. Hunting bugs. Building defenses.
 ```
 
-> **Status**: `ONLINE` | **Mode**: `SECURE` | **Threat Level**: `LOW`
-
+> **Status**: `ONLINE` | **Mode**: `SECURE` | **Threat Level**: `LOW` 
+LOL
 ---
-
-```bash
-$ cat skills.txt
-```
 
 ### 🔐 **Cybersecurity Skills**
 
 ```ini
 [SKILLS]
-AI Penetration Testing            : ████████████████████ 95%
+AI Penetration Testing            : ████████████ 65%
 Vulnerability Assessment          : ██████████████████ 90%
 Cryptography                      : Learning...%
-Network Security                  : ████████████████ 75%
+Network Engineer                  : ████████████████ 75%
 Secure Coding                     : ████████████████ 75%
 Jailbreaking AI                   : ∞
 
@@ -86,7 +81,7 @@ $ echo "Dark mode optimized | Responsive | No trackers"
 Dark mode optimized | Responsive | No trackers
 ```
 
-> _Inspired by `btop` — clean, J.R_  
+> _Inspired by `btop tools` — clean, J.R_  
 > _Powered by Markdown._
 
 ---
