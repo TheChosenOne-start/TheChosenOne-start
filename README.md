@@ -5,6 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Jonth.career%40pm.me-8A2BE2?style=flat-square&logo=protonmail&logoColor=white)](mailto:Jonth.career@pm.me)
 [![GitHub](https://img.shields.io/badge/GitHub-TheChosenOne--start-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TheChosenOne-start)
 [![Location](https://img.shields.io/badge/Based%20in-Orlando%2C%20FL-informational?style=flat-square)](#)
+[![Repositories](https://img.shields.io/badge/Repositories-View%20All-D32F2F?style=flat-square&logo=github&logoColor=white)](https://github.com/TheChosenOne-start?tab=repositories)
 
 Cybersecurity analyst with 14+ months of SOC experience in threat detection, incident
 response, and building EDR-style detection labs. A network infrastructure background
